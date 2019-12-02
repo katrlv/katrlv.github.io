@@ -9,7 +9,7 @@ body {
  background: white;
 }
 
-h1, h2, h3, p, a {
+h1, h2, h3, h4, p, a {
  font-family: 'Work Sans', sans-serif;
 }
 
@@ -19,7 +19,6 @@ h1, h2, h3, p, a {
  background-image: none;
  border-bottom: none;
  box-shadow: none;
- color: black;
  z-index: auto;
  position: relative;
  border: none;
@@ -62,7 +61,6 @@ h1, h2, h3, p, a {
 
 #header p {
  padding-left: 60px;
- color: white;
 }
 
 .take-a-look {

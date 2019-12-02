@@ -21,6 +21,8 @@ p, a {
  border-bottom: none;
  box-shadow: none;
  color: black;
+ z-index: auto;
+ position: relative;
 }
 
 #header nav {
@@ -29,7 +31,7 @@ p, a {
 }
 
 #header nav li a {
- color: black;
+ color: white;
  border: none;
  border-radius: none;
  box-shadow: none;
@@ -37,4 +39,11 @@ p, a {
  margin-top: 20px;
  background-color: transparent;
  text-transform: uppercase;
+}
+
+#header nav li a:hover {
+ background-color: transparent;
+ box-shadow: none;
+ border: none;
+ font-weight: 300;
 }

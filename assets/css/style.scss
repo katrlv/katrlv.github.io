@@ -31,8 +31,8 @@ h1, h2, h3, h4, p, a {
  position: sticky;
  text-align: right;
  align: right;
- margin-top: 0;
- margin-left: 80px;
+ margin: 0;
+ padding-left: 80px; /* i swear to god */
  max-width: none;
 }
 

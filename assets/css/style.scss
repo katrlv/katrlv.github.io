@@ -31,6 +31,7 @@ h1, h2, h3, p, a {
  position: sticky;
  text-align: right;
  align: right;
+ margin: 0;
 }
 
 #header nav li a {
@@ -65,7 +66,7 @@ h1, h2, h3, p, a {
 }
 
 .take-a-look {
- padding-top: 20px;
+ padding-top: 16px;
  color: black;
  text-transform: uppercase;
 }

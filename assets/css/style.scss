@@ -7,7 +7,6 @@
 
 body {
  background: white;
- margin: 0;
 }
 
 h1, h2, h3 {
@@ -28,6 +27,8 @@ p, a {
  color: black;
  z-index: auto;
  position: relative;
+ border: none;
+ margin: 0;
 }
 
 #header nav {

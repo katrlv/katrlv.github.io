@@ -23,7 +23,6 @@ h1, h2, h3, h4, p, a {
  z-index: auto;
  position: relative;
  border: none;
- margin: 0;
 }
 
 #header nav {
@@ -31,7 +30,6 @@ h1, h2, h3, h4, p, a {
  position: sticky;
  text-align: right;
  align: right;
- margin: 0;
 }
 
 #header nav li a {
@@ -55,12 +53,12 @@ h1, h2, h3, h4, p, a {
 
 #header h1 {
  padding-top: 100px;
- padding-left: 60px;
+ padding-left: 80px;
  color: black;
  font-style: bold;
 }
 
 #header p {
- padding-left: 60px;
+ padding-left: 80px;
  color: white;
 }

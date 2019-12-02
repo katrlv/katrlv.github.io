@@ -26,9 +26,10 @@ p, a {
 }
 
 #header nav {
- background: none;
- position: fixed;
+ background: #FF164E;
+ position: sticky;
  text-align: right;
+ align: right;
 }
 
 #header nav li a {

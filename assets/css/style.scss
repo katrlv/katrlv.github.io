@@ -31,7 +31,8 @@ h1, h2, h3, h4, p, a {
  position: sticky;
  text-align: right;
  align: right;
- margin: 0;
+ margin-top: 0;
+ margin-left: 80px;
  max-width: none;
 }
 
@@ -41,7 +42,6 @@ h1, h2, h3, h4, p, a {
  border-radius: none;
  box-shadow: none;
  padding-top: 30px;
- padding-left: 60px;
  background-color: transparent;
  text-transform: uppercase;
  text-shadow: none;

@@ -32,7 +32,7 @@ h1, h2, h3, h4, p, a {
  text-align: right;
  align: right;
  margin: 0;
- padding-left: 80px; /* i swear to god */
+ padding: 0 90px; /* i swear to god */
  max-width: none;
 }
 
@@ -56,12 +56,12 @@ h1, h2, h3, h4, p, a {
 
 #header h1 {
  padding-top: 100px;
- padding-left: 100px;
+ padding-left: 90px;
  color: black;
  font-style: bold;
 }
 
 #header p {
- padding-left: 100px;
+ padding-left: 90px;
  color: white;
 }

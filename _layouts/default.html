@@ -31,7 +31,11 @@
 <body>
 	<div id="header">
 		<nav>
-			<h1>hello.. this is some title text</h1> 
+		{% for static in site.pages %}
+			{% if static.id %}
+                    		<li class="downloads"><a href="#{{ static.id }}">{{ static.title }}</a></li>
+			{% endif %}
+            		{% endfor %}
 		</nav>
 	</div><!-- end header -->
 

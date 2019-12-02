@@ -44,7 +44,7 @@ p, a {
  border-radius: none;
  box-shadow: none;
  padding: 20px;
- margin-top: 30px;
+ padding-top: 30px;
  background-color: transparent;
  text-transform: uppercase;
 }
@@ -56,6 +56,11 @@ p, a {
  font-weight: 500;
 }
 
-#header h1, p {
- margin-top: 60px;
+#header h1 {
+ padding-top: 100px;
+ color: black;
+}
+
+#header p {
+ color: white;
 }

@@ -27,8 +27,8 @@ p, a {
 
 #header nav {
  background: none;
- color: black;
- position: fixed;
+ position: sticky;
+ text-align: right;
 }
 
 #header nav li a {
@@ -36,8 +36,8 @@ p, a {
  border: none;
  border-radius: none;
  box-shadow: none;
- padding: 15px;
- margin-top: 20px;
+ padding: 20px;
+ margin-top: 30px;
  background-color: transparent;
  text-transform: uppercase;
 }

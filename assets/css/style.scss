@@ -11,12 +11,19 @@ h1, h2, h3 {
 }
 
 p {
-  font-family: 'Work Sans', sans-serif;
+ font-family: 'Work Sans', sans-serif;
+}
+
+nav {
+ background: none;
+ color: black;
 }
 
 #header {
  height: 300px;
  background-color: #FF164E; 
  background-image: none;
+ border-bottom: none;
+ box-shadow: none;
  color: black;
 }

@@ -10,13 +10,8 @@ h1, h2, h3 {
  background: none;
 }
 
-p {
+p, a {
  font-family: 'Work Sans', sans-serif;
-}
-
-#header nav {
- background: none;
- color: black;
 }
 
 #header {
@@ -26,4 +21,19 @@ p {
  border-bottom: none;
  box-shadow: none;
  color: black;
+}
+
+#header nav {
+ background: none;
+ color: black;
+}
+
+#header nav li a {
+ color: black;
+ border: none;
+ border-radius: none;
+ box-shadow: none;
+ padding: 15px;
+ margin-top: 20px;
+ background-color: none;
 }

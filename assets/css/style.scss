@@ -38,23 +38,16 @@ h1, h2, h3, h4, p, a {
 }
 
 #header nav {
- background-color: #FF164E !important;
+ background-color: #FF164E;
  background: #FF164E;
- position: sticky;
- top: 0;
  text-align: right;
  margin: 0;
- padding: 0 20px; /* i swear to god */
+ padding: 0 20px;
  max-width: none;
 }
 
-nav {
- background-color: #FF164E !important;
- background: #FF164E;
-}
-
 #header nav li a {
- color: black;
+ color: white;
  border: none;
  border-radius: none;
  box-shadow: none;
@@ -63,7 +56,6 @@ nav {
  text-transform: uppercase;
  text-shadow: none;
  background-color: transparent;
- text-decoration: underline;
 }
 
 #header nav li a:hover {

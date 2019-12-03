@@ -38,7 +38,7 @@ h1, h2, h3, h4, p, a {
 }
 
 #header nav {
- background-color: #FF164E;
+ background-color: #FF164E !important;
  background: #FF164E;
  position: sticky;
  top: 0;
@@ -54,8 +54,8 @@ h1, h2, h3, h4, p, a {
  border-radius: none;
  box-shadow: none;
  padding-top: 30px;
- padding-left: 20%;
- padding-right: 10%;
+ padding-left: 20px;
+ padding-right: 20%;
  background-color: #FF164E;
  background: #FF164E;
  text-transform: uppercase;

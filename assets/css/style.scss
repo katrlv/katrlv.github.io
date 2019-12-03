@@ -84,11 +84,14 @@ h1, h2, h3, h4, p, a {
 section #title h1 {
  font-family: Work Sans;
  text-align: left;
- font-size: 28px;
+ font-size: 30px;
  font-weight: bold;
  color: black
- margin: 20px;
  text-transform: uppercase;
+}
+
+section #title {
+ margin-bottom: 20px;
 }
 
 hr {

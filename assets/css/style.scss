@@ -14,7 +14,7 @@ body {
  border: 20px solid black;
 }
 
-h1, h2, h3, h4, p, a, strong {
+h1, h2, h3, h4, p, a {
  font-family: 'Work Sans', sans-serif;
 }
 
@@ -108,4 +108,8 @@ blockquote {
 
 blockquote p {
  padding: 20px;
+}
+
+strong {
+ font-family: 'Work Sans', sans-serif;
 }

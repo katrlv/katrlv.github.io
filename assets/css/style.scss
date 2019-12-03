@@ -39,7 +39,6 @@ h1, h2, h3, h4, p, a {
 
 #header nav {
  background: #FF164E;
- position: sticky;
  text-align: right;
  align: right;
  margin: 0;
@@ -68,12 +67,12 @@ h1, h2, h3, h4, p, a {
 
 #header h1 {
  padding-top: 100px;
- padding-left: 90px;
+ padding-left: 10%;
  color: black;
  font-style: bold;
 }
 
 #header p {
- padding-left: 90px;
+ padding-left: 10%;
  color: white;
 }

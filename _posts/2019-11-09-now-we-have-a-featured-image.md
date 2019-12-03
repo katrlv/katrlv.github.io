@@ -12,4 +12,4 @@ My team’s UN SDG was Sustainable Cities, and we chose to focus on financial su
 
 **MY ANGLE:**
 
-> This was a collaborative effort I’ve really come to treasure because every member of the design team had first-hand experiences with the lives of immigrants, and so we were all able to come together in a genuine way to create a product that would support our users. We each shared stories of our immigrant family members to inspire our design process. I worked on a simple interactive prototype for the project, seen above.
+> This project was a pleasure to collaborate on because every member of the design team had first-hand experiences with the lives of immigrants, and so we were all able to come together in a genuine way to build a product that would best suit our users' needs. We each shared stories of our immigrant family members to inspire our design process. I worked on a simple interactive prototype for the project, seen above.

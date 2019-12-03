@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Waterloo Catholic District School Board
-date: '2019-12-03 06:06:20'
+date: '2019-11-08 06:06:20'
+thumbnail: /images/uploads/wcdsb-mockup.png
 ---
 In summer 2019, I worked as a Junior Web Designer for Waterloo Catholic District School Board (WCDSB). I was responsible for redesigning their homepage and making changes to the school board website to help with their transition to a new branding style guide. I worked mainly on Wordpress, and made brand-aligned graphics in Adobe Suite.
 

@@ -2,6 +2,7 @@
 layout: default
 title: Makerbase
 date: '2019-11-01 19:34:39'
+thumbnail: /images/uploads/makerbase-mockup.png
 ---
 **SKILLS:** UX Design, User Research, Interactive Prototyping
 

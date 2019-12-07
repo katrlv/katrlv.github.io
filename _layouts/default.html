@@ -31,6 +31,7 @@
 
 <body>
 	<div class="container">
+	<header>
 	<div id="header">
 		<nav>	
 			{% for static in site.pages %}
@@ -45,7 +46,9 @@
 		<br>
 		<p style="color:black; text-transform:uppercase; font-style:bold;">See my work below ↓</p>
 	</div><!-- end header -->
+	</header>
 
+	<main>
 	<div class="wrapper">
 
             <section>
@@ -103,6 +106,7 @@
 
 	</div>
 	</div>
+	</main>
 	<script>
 		if (window.netlifyIdentity) {
             window.netlifyIdentity.on("init", user => {

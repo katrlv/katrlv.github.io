@@ -36,7 +36,9 @@
 		<nav>	
 			{% for static in site.pages %}
 			{% if static.id %}
+			<ul>
 			   <li class="downloads"><a href="#{{ static.id }}">{{ static.title }}</a></li>
+			</ul>
 			{% endif %}
 			{% endfor %}
 		</nav>
